@@ -1,0 +1,15 @@
+/* element select garera css lagauney tarika */
+div {
+  color: blue;
+}
+
+/* class lai select garera css lagauney tarika */
+.imageClass {
+  height: 200px;
+  width: 200px;
+}
+
+/* id lai select garera css lagauney tarika */
+#bottomDiv {
+  font-size: xx-large;
+}

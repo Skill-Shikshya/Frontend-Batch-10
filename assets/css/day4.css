@@ -1,0 +1,23 @@
+.container {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid gray;
+}
+
+.description {
+  display: flex;
+  /*children haru lai x-axis/ horizontally ma move garna */
+
+  justify-content: space-between;
+  height: 200px;
+  /* children haru lai y-axis / vertically ma move garna */
+  align-items: center;
+  /* gap: 10px; */
+  border: 1px solid blue;
+}
+
+.image {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}

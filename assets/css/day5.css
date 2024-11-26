@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.flex {
+  display: flex;
+  gap: 10px;
+}
+
+.logoImage {
+  height: 30px;
+  width: 30px;
+}
+
+.banner {
+  height: 100px;
+  width: 200px;
+  padding: 10px;
+  border: 2px solid red;
+}
+
+.bannerImage {
+  object-fit: contain;
+  height: 100%;
+}
